@@ -1,0 +1,4 @@
+<!--pages/material/material.wxml-->
+<view class='no-data'>
+   <image class='ziliao' src='../../images/ziliao.svg'></image>
+</view>

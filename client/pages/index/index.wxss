@@ -1,0 +1,45 @@
+@import "../../components/Head/wx-head.wxss";
+.head-wrapper{
+  width: 100%;
+  height: 415rpx;
+}
+.test-name{
+  color: #ffffff;
+  margin-bottom: 40rpx;
+  background:#ffffff;
+  border-radius:0 100rpx 100rpx 100rpx;
+  width:214rpx;
+  height:52rpx;
+  font-family:PingFangSC-Medium;
+  font-size:30rpx;
+  color:#2acfb3;
+  text-align:justify;
+  line-height:52rpx;
+  text-indent: 32rpx;
+}
+.card{
+  background:#ffffff;
+  box-shadow:0 10rpx 30rpx 0 rgba(178,192,213,0.30);
+  border-radius:10rpx;
+  width:100%;
+  box-sizing: border-box;
+  height:320rpx;
+  margin-bottom: 26rpx;
+  overflow: hidden;
+}
+.card image {
+  height: 220rpx;
+  width: 100%;
+}
+.card-text {
+  padding: 0rpx 24rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  font-size: 28rpx;
+  color:#1f2c2a;
+  font-family:PingFangSC-Regular;
+}
+.card-wrapper{
+  width: 90%;
+  margin-top: -130rpx;
+}
